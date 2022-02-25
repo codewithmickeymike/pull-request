@@ -1,0 +1,2 @@
+this is my another feature 2 file in my feature folder
+another line
